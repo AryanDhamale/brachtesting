@@ -1,3 +1,2 @@
 # Hello Delta Students 
-wel come to Delta 
-Gold
+wel come to Delta main
