@@ -1,2 +1,2 @@
 # Hello Delta Students 
-wel come to Delta 
+wel come to Delta fun
